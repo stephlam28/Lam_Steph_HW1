@@ -28,9 +28,10 @@
 .row {
     display: flex;
 }
-  
+
   .column {
     flex: 33.33%;
     padding: 15px;
 }
+
 /* Start https://www.cursors-4u.com */ * {cursor: url(https://ani.cursors-4u.net/nature/nat-11/nat1045.cur), auto !important;} /* End https://www.cursors-4u.com */
