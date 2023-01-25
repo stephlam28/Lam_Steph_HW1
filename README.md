@@ -1,14 +1,20 @@
 # Lam_Steph_HW1
+A description of me
 
-### I grew up in Guelph, Ontario and lived here my whole life with my family, I have 2 older brothers, one who got married recently in 2022.
+## Installation
+Install all files as listed into a folder to view html and images properly
 
-#### I love watching animations, especially by Studio Ghibli, art is something that brings happiness and serenity to me.
+## Usage
+To learn simple HTML and CSS codes and how to utilize it
 
-#### My favourite movie from Studio Ghibli would be *Howl's Moving Castle*. The creation of the music, art and story-telling is immaculate.
+## Contributing
+No contributors needed.
 
-#### I love spending time with my family, this picture was taken recently during New Years Eve, 
-![cousins](/img/cousins.jpg)
+## History
+N/A
 
-#### and this one was taken during Halloween.
-![halloween](/img/halloween.jpg)
+## Credits
+Stephanie Lam, lam.steph28@gmail.com
 
+## License
+No licenses required.
