@@ -1,0 +1,36 @@
+.h1 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-style: solid;
+    color: #F9ADA0;
+}
+
+.p {
+    float: right;
+    font-size: 24px;
+    word-wrap: break-word;
+    border-style: solid;
+    border-width: thin;
+    width: 800px;
+    padding: 15px;
+    position:relative; right:60px; bottom: 15px;
+}
+
+.p2 {
+    font-size: 24px;
+    word-wrap: break-word;
+    border-left: 6px solid #153B50;
+    padding-left: 15px;
+    width: 900px;
+    margin-top:400px;
+}
+
+.row {
+    display: flex;
+}
+  
+  .column {
+    flex: 33.33%;
+    padding: 15px;
+}
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://ani.cursors-4u.net/nature/nat-11/nat1045.cur), auto !important;} /* End https://www.cursors-4u.com */
